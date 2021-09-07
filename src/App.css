@@ -1,0 +1,62 @@
+#header {
+  background-color: bisque;
+  /* height: 100px; */
+  overflow: hidden;
+  /* padding: 20px 10px; */
+}
+
+#logo {
+  /* display: inline-block; */
+  /* margin: 15px; */
+  /* float: left; */
+  height: 60px;
+  width: auto; /* correct proportions to specified height */
+  border-radius: 50%; /* makes it a circle */
+}
+
+.header-left {
+  overflow: auto;
+  /* align-items: left; */
+  /* border-radius: 26px; */
+  /* float: left; */
+  /* display: inline-block; */
+}
+
+.tabs {
+  margin: auto;
+  width: 50%;
+  /* padding: 10px; */
+  /* align-items: center; */
+  /* justify-content: center; */
+}
+.header-right{
+  border-radius: 26px;
+  background-color: coral;
+  float: right;
+}
+.btn {
+  border: none; /* Remove borders */
+  color: white; /* Add a text color */
+  padding: 14px 28px; /* Add some padding */
+  cursor: pointer; /* Add a pointer cursor on mouse-over */
+}
+
+.get_started {
+  background-color: #1565c0;/* Darken Blue */
+  border-radius: 18px;
+  }
+
+/* .row {
+  background-color: bisque;
+  height: 100px;
+} */
+
+.welcome {
+  align-items: center;
+}
+
+
+#drop_menu {
+  height: 70%;
+  width: auto;
+}
